@@ -13,5 +13,5 @@ def link
 end
  
 def all_phrases
-  puts '#{mario} + #{toadstool} + #{link}'
+  p '#{mario} + #{toadstool} + #{link}'
 end
