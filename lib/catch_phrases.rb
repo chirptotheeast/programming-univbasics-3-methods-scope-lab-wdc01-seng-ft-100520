@@ -12,6 +12,6 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
-def all phrases
+def all_phrases
   puts '#{mario} + #{toadstool} + #{link} + #{allphrases}'
 end
